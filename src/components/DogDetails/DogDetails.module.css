@@ -1,0 +1,10 @@
+.imageWrapper {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.image {
+    max-width: 100%;
+    max-height: 300px;
+}
